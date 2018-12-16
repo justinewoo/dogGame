@@ -1,8 +1,6 @@
 #pygame is a free and open source library 
-#inputbox is by Timothy Downs and used to create the message box
 
 import pygame
-import inputbox
 from random import randint
 
 pygame.init()
